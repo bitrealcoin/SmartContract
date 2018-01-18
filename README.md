@@ -3,8 +3,6 @@
 
 The BITREAL coin supports the special AIF of BITREAL Capital with the ERC-20 Token Standard (https://theethereum.wiki/w/index.php/ERC20_Token_Standard) based on smart contracts of the Ethereum network (https://ethereum.org).
 
-For additional information and Whitepaper please visit https://bitrealcapital.com/en/
-
 # Introduction
 The BITREAL coin is covered by commercial real estate and uses the ERC-20 token standard of the Ethereum network. The use of this standard ensures that the most widely used token technology is in place today, reducing the total lifecycle management burden from the initial coin offering (ICO) and purchase to completion and sale of each token as much as possible.
 
@@ -33,3 +31,6 @@ This smart contract holds and manages the BITREAL coins distributed across the t
 
 # MiniMeToken.sol
 Property of this smart contract is the use of the ERC-20 token standard.
+
+# Documentation
+For additional information and Whitepaper please visit https://bitrealcapital.com/en/
