@@ -1,2 +1,3 @@
-# SmartContract
+# README
+
 <img src="BCLogo.png">
